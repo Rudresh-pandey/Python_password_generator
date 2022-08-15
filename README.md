@@ -12,5 +12,5 @@ tasks-	* ask which command user wants to be performed: generate, show, login, de
 		
 
 _more:- * using the manupulation of xl sheet put all the 
-	  passwords with the username and sl.no in the sheet
+	  passwords with the username in the sheet
 	  using openpyxl package 
